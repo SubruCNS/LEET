@@ -10,4 +10,5 @@ Just trying out various leetcode problems and and possible optimization algorith
 | Day 6 | Check N and 2N in an array                   | Arrays, Hash       | 19-1-2024  |
 | Day 7 | Subsequence between 2 pointers               | Pointers           | 28-1-2024  |
 | Day 8 | Implement Queue using Stacks                 | Stacks             | 29-1-2024  |
-| Day 9 | Decode String                                 | Stacks, Recursion | 19-2-2024  |
+| Day 9 | Decode String                                | Stacks, Recursion | 19-2-2024  |
+|Random | Two Sum                                      |Arrays,Two Pointers,Binary Search|29-04-2024|                        
