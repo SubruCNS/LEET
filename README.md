@@ -2,7 +2,7 @@ Just trying out various leetcode problems and and possible optimization algorith
 | Day   | Question                                     | Topic              | Date       |
 |-------|----------------------------------------------|--------------------|------------|
 | Day 1 | Arrays Majority Element                      | Arrays             | 29-12-2023 |
-| Day1  | Kth Largest Element                          | Arrays             | 29-12-2023 |
+| Day 1 | Kth Largest Element                          | Arrays             | 29-12-2023 |
 | Day 2 | Best time to buy and sell the stock          | Arrays             | 31-12-2023 |
 | Day 3 | Largest Substring between 2 equal characters | Strings            | 31-12-2023 |
 | Day 4 | Reverse Elements in a String                 | Strings            | 02-01-2024 |
